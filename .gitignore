@@ -1,0 +1,9 @@
+_kalenteri
+_data
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+assets/*.jpg
+content
+vendor
